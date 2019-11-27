@@ -1,0 +1,645 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.814915162981,
+                    58.119870623972
+                ]
+            },
+            "properties": {
+                "lat": "58.119870623972",
+                "lon": "55.814915162981",
+                "name": "Стрелка",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.180764236151,
+                    58.005005600999
+                ]
+            },
+            "properties": {
+                "lat": "58.005005600999",
+                "lon": "56.180764236151",
+                "name": "Пермь 2 (Горнозаводское направление)",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.131921226382,
+                    58.034331606864
+                ]
+            },
+            "properties": {
+                "lat": "58.034331606864",
+                "lon": "56.131921226382",
+                "name": "Пермь-Сортировочная",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.103291220656,
+                    58.038994607797
+                ]
+            },
+            "properties": {
+                "lat": "58.038994607797",
+                "lon": "56.103291220656",
+                "name": "Комсомольская",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.085271217052,
+                    58.042273608452
+                ]
+            },
+            "properties": {
+                "lat": "58.042273608452",
+                "lon": "56.085271217052",
+                "name": "Железнодорожный",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.047977209593,
+                    58.041242608246
+                ]
+            },
+            "properties": {
+                "lat": "58.041242608246",
+                "lon": "56.047977209593",
+                "name": "Промучасток",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.02090920418,
+                    58.046954609389
+                ]
+            },
+            "properties": {
+                "lat": "58.046954609389",
+                "lon": "56.02090920418",
+                "name": "Курья",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.958270191652,
+                    58.070992614196
+                ]
+            },
+            "properties": {
+                "lat": "58.070992614196",
+                "lon": "55.958270191652",
+                "name": "Ласьва",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.907543181506,
+                    58.059102611818
+                ]
+            },
+            "properties": {
+                "lat": "58.059102611818",
+                "lon": "55.907543181506",
+                "name": "Мысы",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.867430173484,
+                    58.086701617338
+                ]
+            },
+            "properties": {
+                "lat": "58.086701617338",
+                "lon": "55.867430173484",
+                "name": "Оверята",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.680206136039,
+                    58.136991627396
+                ]
+            },
+            "properties": {
+                "lat": "58.136991627396",
+                "lon": "55.680206136039",
+                "name": "Шабуничи",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.724192144836,
+                    58.140044628007
+                ]
+            },
+            "properties": {
+                "lat": "58.140044628007",
+                "lon": "55.724192144836",
+                "name": "Увал",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.64641312928,
+                    58.136636627325
+                ]
+            },
+            "properties": {
+                "lat": "58.136636627325",
+                "lon": "55.64641312928",
+                "name": "о.п. 1394км",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.833202166638,
+                    58.112867622571
+                ]
+            },
+            "properties": {
+                "lat": "58.112867622571",
+                "lon": "55.833202166638",
+                "name": "о.п. 1406км",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.814915162981,
+                    58.119870623972
+                ]
+            },
+            "properties": {
+                "lat": "58.119870623972",
+                "lon": "55.814915162981",
+                "name": "Стрелка",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.180764236151,
+                    58.005005600999
+                ]
+            },
+            "properties": {
+                "lat": "58.005005600999",
+                "lon": "56.180764236151",
+                "name": "Пермь 2 (Горнозаводское направление)",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.131921226382,
+                    58.034331606864
+                ]
+            },
+            "properties": {
+                "lat": "58.034331606864",
+                "lon": "56.131921226382",
+                "name": "Пермь-Сортировочная",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.103291220656,
+                    58.038994607797
+                ]
+            },
+            "properties": {
+                "lat": "58.038994607797",
+                "lon": "56.103291220656",
+                "name": "Комсомольская",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.085271217052,
+                    58.042273608452
+                ]
+            },
+            "properties": {
+                "lat": "58.042273608452",
+                "lon": "56.085271217052",
+                "name": "Железнодорожный",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.047977209593,
+                    58.041242608246
+                ]
+            },
+            "properties": {
+                "lat": "58.041242608246",
+                "lon": "56.047977209593",
+                "name": "Промучасток",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.02090920418,
+                    58.046954609389
+                ]
+            },
+            "properties": {
+                "lat": "58.046954609389",
+                "lon": "56.02090920418",
+                "name": "Курья",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.958270191652,
+                    58.070992614196
+                ]
+            },
+            "properties": {
+                "lat": "58.070992614196",
+                "lon": "55.958270191652",
+                "name": "Ласьва",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.907543181506,
+                    58.059102611818
+                ]
+            },
+            "properties": {
+                "lat": "58.059102611818",
+                "lon": "55.907543181506",
+                "name": "Мысы",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.867430173484,
+                    58.086701617338
+                ]
+            },
+            "properties": {
+                "lat": "58.086701617338",
+                "lon": "55.867430173484",
+                "name": "Оверята",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.680206136039,
+                    58.136991627396
+                ]
+            },
+            "properties": {
+                "lat": "58.136991627396",
+                "lon": "55.680206136039",
+                "name": "Шабуничи",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.724192144836,
+                    58.140044628007
+                ]
+            },
+            "properties": {
+                "lat": "58.140044628007",
+                "lon": "55.724192144836",
+                "name": "Увал",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.64641312928,
+                    58.136636627325
+                ]
+            },
+            "properties": {
+                "lat": "58.136636627325",
+                "lon": "55.64641312928",
+                "name": "о.п. 1394км",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.833202166638,
+                    58.112867622571
+                ]
+            },
+            "properties": {
+                "lat": "58.112867622571",
+                "lon": "55.833202166638",
+                "name": "о.п. 1406км",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.180764236151,
+                    58.005005600999
+                ]
+            },
+            "properties": {
+                "lat": "58.005005600999",
+                "lon": "56.180764236151",
+                "name": "Пермь 2 (Горнозаводское направление)",
+                "img": "/img/map-black.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.131921226382,
+                    58.034331606864
+                ]
+            },
+            "properties": {
+                "lat": "58.034331606864",
+                "lon": "56.131921226382",
+                "name": "Пермь-Сортировочная",
+                "img": "/img/map-black.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.085271217052,
+                    58.042273608452
+                ]
+            },
+            "properties": {
+                "lat": "58.042273608452",
+                "lon": "56.085271217052",
+                "name": "Железнодорожный",
+                "img": "/img/map-black.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.047977209593,
+                    58.041242608246
+                ]
+            },
+            "properties": {
+                "lat": "58.041242608246",
+                "lon": "56.047977209593",
+                "name": "Промучасток",
+                "img": "/img/map-black.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.867430173484,
+                    58.086701617338
+                ]
+            },
+            "properties": {
+                "lat": "58.086701617338",
+                "lon": "55.867430173484",
+                "name": "Оверята",
+                "img": "/img/map-black.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.680206136039,
+                    58.136991627396
+                ]
+            },
+            "properties": {
+                "lat": "58.136991627396",
+                "lon": "55.680206136039",
+                "name": "Шабуничи",
+                "img": "/img/map-black.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.180764236151,
+                    58.005005600999
+                ]
+            },
+            "properties": {
+                "lat": "58.005005600999",
+                "lon": "56.180764236151",
+                "name": "Пермь 2 (Горнозаводское направление)",
+                "img": "/img/map-green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.131921226382,
+                    58.034331606864
+                ]
+            },
+            "properties": {
+                "lat": "58.034331606864",
+                "lon": "56.131921226382",
+                "name": "Пермь-Сортировочная",
+                "img": "/img/map-green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.085271217052,
+                    58.042273608452
+                ]
+            },
+            "properties": {
+                "lat": "58.042273608452",
+                "lon": "56.085271217052",
+                "name": "Железнодорожный",
+                "img": "/img/map-green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.047977209593,
+                    58.041242608246
+                ]
+            },
+            "properties": {
+                "lat": "58.041242608246",
+                "lon": "56.047977209593",
+                "name": "Промучасток",
+                "img": "/img/map-green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.867430173484,
+                    58.086701617338
+                ]
+            },
+            "properties": {
+                "lat": "58.086701617338",
+                "lon": "55.867430173484",
+                "name": "Оверята",
+                "img": "/img/map-green.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.680206136039,
+                    58.136991627396
+                ]
+            },
+            "properties": {
+                "lat": "58.136991627396",
+                "lon": "55.680206136039",
+                "name": "Шабуничи",
+                "img": "/img/map-green.png"
+            }
+        }
+    ]
+}

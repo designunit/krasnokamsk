@@ -1,0 +1,549 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.817904163579,
+                    58.061467612291
+                ]
+            },
+            "properties": {
+                "lat": "58.061467612291",
+                "lon": "55.817904163579",
+                "name": "Мясокомбинат",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.795203159038,
+                    58.067265613451
+                ]
+            },
+            "properties": {
+                "lat": "58.067265613451",
+                "lon": "55.795203159038",
+                "name": "Заводской микрорайон",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.745675149133,
+                    58.084425616883
+                ]
+            },
+            "properties": {
+                "lat": "58.084425616883",
+                "lon": "55.745675149133",
+                "name": "Техникум",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.733927146783,
+                    58.080576616113
+                ]
+            },
+            "properties": {
+                "lat": "58.080576616113",
+                "lon": "55.733927146783",
+                "name": "Аптека",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.736996147397,
+                    58.078833615764
+                ]
+            },
+            "properties": {
+                "lat": "58.078833615764",
+                "lon": "55.736996147397",
+                "name": "пл. Гознака",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.804722160942,
+                    58.061407612279
+                ]
+            },
+            "properties": {
+                "lat": "58.061407612279",
+                "lon": "55.804722160942",
+                "name": "Микрорайон Рейд",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.73906214781,
+                    58.082219616442
+                ]
+            },
+            "properties": {
+                "lat": "58.082219616442",
+                "lon": "55.73906214781",
+                "name": "Банно-прачечный комбинат",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.753538150705,
+                    58.085244617047
+                ]
+            },
+            "properties": {
+                "lat": "58.085244617047",
+                "lon": "55.753538150705",
+                "name": "Карла Маркса",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.753608150719,
+                    58.081106616219
+                ]
+            },
+            "properties": {
+                "lat": "58.081106616219",
+                "lon": "55.753608150719",
+                "name": "КДЦ Родина",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.769394153877,
+                    58.074169614832
+                ]
+            },
+            "properties": {
+                "lat": "58.074169614832",
+                "lon": "55.769394153877",
+                "name": "КЗМС",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.791446158287,
+                    58.069897613977
+                ]
+            },
+            "properties": {
+                "lat": "58.069897613977",
+                "lon": "55.791446158287",
+                "name": "АТП",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.742335148465,
+                    58.076620615322
+                ]
+            },
+            "properties": {
+                "lat": "58.076620615322",
+                "lon": "55.742335148465",
+                "name": "Фабрика Гознак",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.73160914632,
+                    58.075937615185
+                ]
+            },
+            "properties": {
+                "lat": "58.075937615185",
+                "lon": "55.73160914632",
+                "name": "Калинина",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.711078142213,
+                    58.077327615463
+                ]
+            },
+            "properties": {
+                "lat": "58.077327615463",
+                "lon": "55.711078142213",
+                "name": "МЖК Запальта",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.724441144886,
+                    58.076340615266
+                ]
+            },
+            "properties": {
+                "lat": "58.076340615266",
+                "lon": "55.724441144886",
+                "name": "Храм Святой Екатерины",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.751358150269,
+                    58.086285617255
+                ]
+            },
+            "properties": {
+                "lat": "58.086285617255",
+                "lon": "55.751358150269",
+                "name": "Поликлиника",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.781689156336,
+                    58.071972614392
+                ]
+            },
+            "properties": {
+                "lat": "58.071972614392",
+                "lon": "55.781689156336",
+                "name": "УТТ",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.817904163579,
+                    58.061467612291
+                ]
+            },
+            "properties": {
+                "lat": "58.061467612291",
+                "lon": "55.817904163579",
+                "name": "Мясокомбинат",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.795145159027,
+                    58.06741061348
+                ]
+            },
+            "properties": {
+                "lat": "58.06741061348",
+                "lon": "55.795145159027",
+                "name": "Заводской микрорайон",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.745398149077,
+                    58.084395616877
+                ]
+            },
+            "properties": {
+                "lat": "58.084395616877",
+                "lon": "55.745398149077",
+                "name": "Техникум",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.734180146834,
+                    58.080730616144
+                ]
+            },
+            "properties": {
+                "lat": "58.080730616144",
+                "lon": "55.734180146834",
+                "name": "Аптека",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.736996147397,
+                    58.078833615764
+                ]
+            },
+            "properties": {
+                "lat": "58.078833615764",
+                "lon": "55.736996147397",
+                "name": "пл. Гознака",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.753154150629,
+                    58.086940617386
+                ]
+            },
+            "properties": {
+                "lat": "58.086940617386",
+                "lon": "55.753154150629",
+                "name": "Поликлиника",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.804346160867,
+                    58.06156361231
+                ]
+            },
+            "properties": {
+                "lat": "58.06156361231",
+                "lon": "55.804346160867",
+                "name": "Микрорайон Рейд",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.738702147738,
+                    58.082177616433
+                ]
+            },
+            "properties": {
+                "lat": "58.082177616433",
+                "lon": "55.738702147738",
+                "name": "Банно-прачечный комбинат",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.753245150647,
+                    58.085625617123
+                ]
+            },
+            "properties": {
+                "lat": "58.085625617123",
+                "lon": "55.753245150647",
+                "name": "Карла Маркса",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.769064153811,
+                    58.074291614856
+                ]
+            },
+            "properties": {
+                "lat": "58.074291614856",
+                "lon": "55.769064153811",
+                "name": "КЗМС",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.790668158131,
+                    58.070318614061
+                ]
+            },
+            "properties": {
+                "lat": "58.070318614061",
+                "lon": "55.790668158131",
+                "name": "АТП",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.742419148482,
+                    58.07716261543
+                ]
+            },
+            "properties": {
+                "lat": "58.07716261543",
+                "lon": "55.742419148482",
+                "name": "Фабрика Гознак",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.731155146229,
+                    58.076058615209
+                ]
+            },
+            "properties": {
+                "lat": "58.076058615209",
+                "lon": "55.731155146229",
+                "name": "Калинина",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.711652142328,
+                    58.077316615461
+                ]
+            },
+            "properties": {
+                "lat": "58.077316615461",
+                "lon": "55.711652142328",
+                "name": "МЖК Запальта",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.725165145031,
+                    58.076357615269
+                ]
+            },
+            "properties": {
+                "lat": "58.076357615269",
+                "lon": "55.725165145031",
+                "name": "Храм Святой Екатерины",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.754524150903,
+                    58.080395616077
+                ]
+            },
+            "properties": {
+                "lat": "58.080395616077",
+                "lon": "55.754524150903",
+                "name": "КДЦ Родина",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.78091115618,
+                    58.072174614433
+                ]
+            },
+            "properties": {
+                "lat": "58.072174614433",
+                "lon": "55.78091115618",
+                "name": "УТТ",
+                "img": "/img/map-red.png"
+            }
+        }
+    ]
+}

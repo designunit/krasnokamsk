@@ -1,0 +1,1061 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.139830227964,
+                    57.963974592793
+                ]
+            },
+            "properties": {
+                "lat": "57.963974592793",
+                "lon": "56.139830227964",
+                "name": "Школа №107 (Верхние Муллы)",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.156438231285,
+                    57.972648594527
+                ]
+            },
+            "properties": {
+                "lat": "57.972648594527",
+                "lon": "56.156438231285",
+                "name": "Давыдова (шоссе Космонавтов)",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.15991123198,
+                    57.974320594862
+                ]
+            },
+            "properties": {
+                "lat": "57.974320594862",
+                "lon": "56.15991123198",
+                "name": "Спорткомплекс им. Сухарева",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.164783232954,
+                    57.976303595258
+                ]
+            },
+            "properties": {
+                "lat": "57.976303595258",
+                "lon": "56.164783232954",
+                "name": "Леонова (шоссе Космонавтов)",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.174824234963,
+                    57.979905595979
+                ]
+            },
+            "properties": {
+                "lat": "57.979905595979",
+                "lon": "56.174824234963",
+                "name": "Одоевского (шоссе Космонавтов)",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.180420236082,
+                    57.982629596524
+                ]
+            },
+            "properties": {
+                "lat": "57.982629596524",
+                "lon": "56.180420236082",
+                "name": "Больничный городок",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.186072237212,
+                    57.986367597271
+                ]
+            },
+            "properties": {
+                "lat": "57.986367597271",
+                "lon": "56.186072237212",
+                "name": "9 Мая (шоссе Космонавтов)",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.196084239215,
+                    57.990546598107
+                ]
+            },
+            "properties": {
+                "lat": "57.990546598107",
+                "lon": "56.196084239215",
+                "name": "Гознак",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.033296206657,
+                    58.039081607814
+                ]
+            },
+            "properties": {
+                "lat": "58.039081607814",
+                "lon": "56.033296206657",
+                "name": "Стадион Авангард",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.223692244736,
+                    57.997239599446
+                ]
+            },
+            "properties": {
+                "lat": "57.997239599446",
+                "lon": "56.223692244736",
+                "name": "Мильчакова (шоссе Космонавтов)",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.213577242713,
+                    57.994406598879
+                ]
+            },
+            "properties": {
+                "lat": "57.994406598879",
+                "lon": "56.213577242713",
+                "name": "Блюхера",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.127583225514,
+                    57.957452591488
+                ]
+            },
+            "properties": {
+                "lat": "57.957452591488",
+                "lon": "56.127583225514",
+                "name": "Верхние Муллы",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.049614209921,
+                    58.037719607542
+                ]
+            },
+            "properties": {
+                "lat": "58.037719607542",
+                "lon": "56.049614209921",
+                "name": "Красавинский мост (по требованию)",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.232790246556,
+                    58.002239600446
+                ]
+            },
+            "properties": {
+                "lat": "58.002239600446",
+                "lon": "56.232790246556",
+                "name": "Автовокзал",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.815514163101,
+                    58.061127612223
+                ]
+            },
+            "properties": {
+                "lat": "58.061127612223",
+                "lon": "55.815514163101",
+                "name": "Мясокомбинат",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.795203159038,
+                    58.067265613451
+                ]
+            },
+            "properties": {
+                "lat": "58.067265613451",
+                "lon": "55.795203159038",
+                "name": "Заводской микрорайон",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.745675149133,
+                    58.084425616883
+                ]
+            },
+            "properties": {
+                "lat": "58.084425616883",
+                "lon": "55.745675149133",
+                "name": "Техникум",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.733927146783,
+                    58.080576616113
+                ]
+            },
+            "properties": {
+                "lat": "58.080576616113",
+                "lon": "55.733927146783",
+                "name": "Аптека",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.757623151522,
+                    58.078164615631
+                ]
+            },
+            "properties": {
+                "lat": "58.078164615631",
+                "lon": "55.757623151522",
+                "name": "Автовокзал",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.736996147397,
+                    58.078833615764
+                ]
+            },
+            "properties": {
+                "lat": "58.078833615764",
+                "lon": "55.736996147397",
+                "name": "пл. Гознака",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.785856157169,
+                    58.082830616564
+                ]
+            },
+            "properties": {
+                "lat": "58.082830616564",
+                "lon": "55.785856157169",
+                "name": "Макаронная фабрика",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.783799156758,
+                    58.087820617562
+                ]
+            },
+            "properties": {
+                "lat": "58.087820617562",
+                "lon": "55.783799156758",
+                "name": "Магазин Рива",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.774038154805,
+                    58.08766361753
+                ]
+            },
+            "properties": {
+                "lat": "58.08766361753",
+                "lon": "55.774038154805",
+                "name": "Магазин Элита",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.770158154029,
+                    58.086484617295
+                ]
+            },
+            "properties": {
+                "lat": "58.086484617295",
+                "lon": "55.770158154029",
+                "name": "Магазин Ангор",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.762884152575,
+                    58.087092617416
+                ]
+            },
+            "properties": {
+                "lat": "58.087092617416",
+                "lon": "55.762884152575",
+                "name": "Лицей №32",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.75671015134,
+                    58.088019617602
+                ]
+            },
+            "properties": {
+                "lat": "58.088019617602",
+                "lon": "55.75671015134",
+                "name": "Пушкина",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.804722160942,
+                    58.061407612279
+                ]
+            },
+            "properties": {
+                "lat": "58.061407612279",
+                "lon": "55.804722160942",
+                "name": "Микрорайон Рейд",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.73906214781,
+                    58.082219616442
+                ]
+            },
+            "properties": {
+                "lat": "58.082219616442",
+                "lon": "55.73906214781",
+                "name": "Банно-прачечный комбинат",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.791446158287,
+                    58.069897613977
+                ]
+            },
+            "properties": {
+                "lat": "58.069897613977",
+                "lon": "55.791446158287",
+                "name": "АТП",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.751358150269,
+                    58.086285617255
+                ]
+            },
+            "properties": {
+                "lat": "58.086285617255",
+                "lon": "55.751358150269",
+                "name": "Поликлиника",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.785891157176,
+                    58.079451615888
+                ]
+            },
+            "properties": {
+                "lat": "58.079451615888",
+                "lon": "55.785891157176",
+                "name": "Пермский завод грузовой техники",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.752939150586,
+                    58.077089615416
+                ]
+            },
+            "properties": {
+                "lat": "58.077089615416",
+                "lon": "55.752939150586",
+                "name": "ЦБК Кама",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.139171227832,
+                    57.963796592757
+                ]
+            },
+            "properties": {
+                "lat": "57.963796592757",
+                "lon": "56.139171227832",
+                "name": "Школа №107 (Верхние Муллы)",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.156468231291,
+                    57.972820594562
+                ]
+            },
+            "properties": {
+                "lat": "57.972820594562",
+                "lon": "56.156468231291",
+                "name": "Давыдова (шоссе Космонавтов)",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.159456231889,
+                    57.974248594847
+                ]
+            },
+            "properties": {
+                "lat": "57.974248594847",
+                "lon": "56.159456231889",
+                "name": "Спорткомплекс им. Сухарева",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.166251233248,
+                    57.977014595401
+                ]
+            },
+            "properties": {
+                "lat": "57.977014595401",
+                "lon": "56.166251233248",
+                "name": "Леонова (шоссе Космонавтов)",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.173265234651,
+                    57.9795125959
+                ]
+            },
+            "properties": {
+                "lat": "57.9795125959",
+                "lon": "56.173265234651",
+                "name": "Одоевского (шоссе Космонавтов)",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.179540235906,
+                    57.982230596444
+                ]
+            },
+            "properties": {
+                "lat": "57.982230596444",
+                "lon": "56.179540235906",
+                "name": "Больничный городок",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.185741237146,
+                    57.986250597248
+                ]
+            },
+            "properties": {
+                "lat": "57.986250597248",
+                "lon": "56.185741237146",
+                "name": "9 Мая (шоссе Космонавтов)",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.194251238848,
+                    57.990530598104
+                ]
+            },
+            "properties": {
+                "lat": "57.990530598104",
+                "lon": "56.194251238848",
+                "name": "Гознак",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.030451206088,
+                    58.03911160782
+                ]
+            },
+            "properties": {
+                "lat": "58.03911160782",
+                "lon": "56.030451206088",
+                "name": "Стадион Авангард",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.222692244536,
+                    57.996914599381
+                ]
+            },
+            "properties": {
+                "lat": "57.996914599381",
+                "lon": "56.222692244536",
+                "name": "Мильчакова (шоссе Космонавтов)",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.213121242622,
+                    57.994441598886
+                ]
+            },
+            "properties": {
+                "lat": "57.994441598886",
+                "lon": "56.213121242622",
+                "name": "Блюхера",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.127890225576,
+                    57.957916591581
+                ]
+            },
+            "properties": {
+                "lat": "57.957916591581",
+                "lon": "56.127890225576",
+                "name": "Верхние Муллы",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.050236210045,
+                    58.037668607531
+                ]
+            },
+            "properties": {
+                "lat": "58.037668607531",
+                "lon": "56.050236210045",
+                "name": "Красавинский мост (по требованию)",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.232790246556,
+                    58.002239600446
+                ]
+            },
+            "properties": {
+                "lat": "58.002239600446",
+                "lon": "56.232790246556",
+                "name": "Автовокзал",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.817904163579,
+                    58.061467612291
+                ]
+            },
+            "properties": {
+                "lat": "58.061467612291",
+                "lon": "55.817904163579",
+                "name": "Мясокомбинат",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.795145159027,
+                    58.06741061348
+                ]
+            },
+            "properties": {
+                "lat": "58.06741061348",
+                "lon": "55.795145159027",
+                "name": "Заводской микрорайон",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.745398149077,
+                    58.084395616877
+                ]
+            },
+            "properties": {
+                "lat": "58.084395616877",
+                "lon": "55.745398149077",
+                "name": "Техникум",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.734180146834,
+                    58.080730616144
+                ]
+            },
+            "properties": {
+                "lat": "58.080730616144",
+                "lon": "55.734180146834",
+                "name": "Аптека",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.757623151522,
+                    58.078164615631
+                ]
+            },
+            "properties": {
+                "lat": "58.078164615631",
+                "lon": "55.757623151522",
+                "name": "Автовокзал",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.786205157239,
+                    58.082845616567
+                ]
+            },
+            "properties": {
+                "lat": "58.082845616567",
+                "lon": "55.786205157239",
+                "name": "Макаронная фабрика",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.783295156657,
+                    58.087875617573
+                ]
+            },
+            "properties": {
+                "lat": "58.087875617573",
+                "lon": "55.783295156657",
+                "name": "Магазин Рива",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.772724154543,
+                    58.087440617486
+                ]
+            },
+            "properties": {
+                "lat": "58.087440617486",
+                "lon": "55.772724154543",
+                "name": "Магазин Элита",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.768039153606,
+                    58.085831617164
+                ]
+            },
+            "properties": {
+                "lat": "58.085831617164",
+                "lon": "55.768039153606",
+                "name": "Магазин Ангор",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.763843152766,
+                    58.086393617276
+                ]
+            },
+            "properties": {
+                "lat": "58.086393617276",
+                "lon": "55.763843152766",
+                "name": "Лицей №32",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.756940151386,
+                    58.088167617631
+                ]
+            },
+            "properties": {
+                "lat": "58.088167617631",
+                "lon": "55.756940151386",
+                "name": "Пушкина",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.753154150629,
+                    58.086940617386
+                ]
+            },
+            "properties": {
+                "lat": "58.086940617386",
+                "lon": "55.753154150629",
+                "name": "Поликлиника",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.804346160867,
+                    58.06156361231
+                ]
+            },
+            "properties": {
+                "lat": "58.06156361231",
+                "lon": "55.804346160867",
+                "name": "Микрорайон Рейд",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.843033168604,
+                    58.058090611616
+                ]
+            },
+            "properties": {
+                "lat": "58.058090611616",
+                "lon": "55.843033168604",
+                "name": "д. Нагорная",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.738702147738,
+                    58.082177616433
+                ]
+            },
+            "properties": {
+                "lat": "58.082177616433",
+                "lon": "55.738702147738",
+                "name": "Банно-прачечный комбинат",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.790668158131,
+                    58.070318614061
+                ]
+            },
+            "properties": {
+                "lat": "58.070318614061",
+                "lon": "55.790668158131",
+                "name": "АТП",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.783306156659,
+                    58.073243614646
+                ]
+            },
+            "properties": {
+                "lat": "58.073243614646",
+                "lon": "55.783306156659",
+                "name": "Нефтебаза",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.786173157232,
+                    58.079286615855
+                ]
+            },
+            "properties": {
+                "lat": "58.079286615855",
+                "lon": "55.786173157232",
+                "name": "Пермский завод грузовой техники",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.735947147187,
+                    58.07821261564
+                ]
+            },
+            "properties": {
+                "lat": "58.07821261564",
+                "lon": "55.735947147187",
+                "name": "пл. Гознака",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.753227150643,
+                    58.077002615398
+                ]
+            },
+            "properties": {
+                "lat": "58.077002615398",
+                "lon": "55.753227150643",
+                "name": "ЦБК Кама",
+                "img": "/img/map-red.png"
+            }
+        }
+    ]
+}

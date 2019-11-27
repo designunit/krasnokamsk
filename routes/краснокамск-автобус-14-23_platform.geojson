@@ -1,0 +1,741 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.776817155361,
+                    58.077442615486
+                ]
+            },
+            "properties": {
+                "lat": "58.077442615486",
+                "lon": "55.776817155361",
+                "name": "ТЭЦ-5",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.736996147397,
+                    58.078833615764
+                ]
+            },
+            "properties": {
+                "lat": "58.078833615764",
+                "lon": "55.736996147397",
+                "name": "пл. Гознака",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.786205157239,
+                    58.082845616567
+                ]
+            },
+            "properties": {
+                "lat": "58.082845616567",
+                "lon": "55.786205157239",
+                "name": "Макаронная фабрика",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.783295156657,
+                    58.087875617573
+                ]
+            },
+            "properties": {
+                "lat": "58.087875617573",
+                "lon": "55.783295156657",
+                "name": "Магазин Рива",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.772724154543,
+                    58.087440617486
+                ]
+            },
+            "properties": {
+                "lat": "58.087440617486",
+                "lon": "55.772724154543",
+                "name": "Магазин Элита",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.768039153606,
+                    58.085831617164
+                ]
+            },
+            "properties": {
+                "lat": "58.085831617164",
+                "lon": "55.768039153606",
+                "name": "Магазин Ангор",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.763843152766,
+                    58.086393617276
+                ]
+            },
+            "properties": {
+                "lat": "58.086393617276",
+                "lon": "55.763843152766",
+                "name": "Лицей №32",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.756940151386,
+                    58.088167617631
+                ]
+            },
+            "properties": {
+                "lat": "58.088167617631",
+                "lon": "55.756940151386",
+                "name": "Пушкина",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.753538150705,
+                    58.085244617047
+                ]
+            },
+            "properties": {
+                "lat": "58.085244617047",
+                "lon": "55.753538150705",
+                "name": "Карла Маркса",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.790668158131,
+                    58.070318614061
+                ]
+            },
+            "properties": {
+                "lat": "58.070318614061",
+                "lon": "55.790668158131",
+                "name": "АТП",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.742419148482,
+                    58.07716261543
+                ]
+            },
+            "properties": {
+                "lat": "58.07716261543",
+                "lon": "55.742419148482",
+                "name": "Фабрика Гознак",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.751358150269,
+                    58.086285617255
+                ]
+            },
+            "properties": {
+                "lat": "58.086285617255",
+                "lon": "55.751358150269",
+                "name": "Поликлиника",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.783306156659,
+                    58.073243614646
+                ]
+            },
+            "properties": {
+                "lat": "58.073243614646",
+                "lon": "55.783306156659",
+                "name": "Нефтебаза",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.741564148311,
+                    58.080091616016
+                ]
+            },
+            "properties": {
+                "lat": "58.080091616016",
+                "lon": "55.741564148311",
+                "name": "Магазин Мастер",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.747247149447,
+                    58.08191261638
+                ]
+            },
+            "properties": {
+                "lat": "58.08191261638",
+                "lon": "55.747247149447",
+                "name": "Магазин Виват",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.800696160137,
+                    58.071203614238
+                ]
+            },
+            "properties": {
+                "lat": "58.071203614238",
+                "lon": "55.800696160137",
+                "name": "Дом культуры Нефтяник",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.797355159469,
+                    58.068947613787
+                ]
+            },
+            "properties": {
+                "lat": "58.068947613787",
+                "lon": "55.797355159469",
+                "name": "Магазин Нина",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.810176162033,
+                    58.079097615817
+                ]
+            },
+            "properties": {
+                "lat": "58.079097615817",
+                "lon": "55.810176162033",
+                "name": "Микрорайон Матросова",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.803436160685,
+                    58.074719614942
+                ]
+            },
+            "properties": {
+                "lat": "58.074719614942",
+                "lon": "55.803436160685",
+                "name": "Красная",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.740029148004,
+                    58.07356261471
+                ]
+            },
+            "properties": {
+                "lat": "58.07356261471",
+                "lon": "55.740029148004",
+                "name": "Берег Камы",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.80666016133,
+                    58.076137615225
+                ]
+            },
+            "properties": {
+                "lat": "58.076137615225",
+                "lon": "55.80666016133",
+                "name": "По требованию (ул. Красная)",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.79936015987,
+                    58.074447614887
+                ]
+            },
+            "properties": {
+                "lat": "58.074447614887",
+                "lon": "55.79936015987",
+                "name": "Отворот (Заводской)",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.776892155376,
+                    58.077321615462
+                ]
+            },
+            "properties": {
+                "lat": "58.077321615462",
+                "lon": "55.776892155376",
+                "name": "ТЭЦ-5",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.736996147397,
+                    58.078833615764
+                ]
+            },
+            "properties": {
+                "lat": "58.078833615764",
+                "lon": "55.736996147397",
+                "name": "пл. Гознака",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.785856157169,
+                    58.082830616564
+                ]
+            },
+            "properties": {
+                "lat": "58.082830616564",
+                "lon": "55.785856157169",
+                "name": "Макаронная фабрика",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.783799156758,
+                    58.087820617562
+                ]
+            },
+            "properties": {
+                "lat": "58.087820617562",
+                "lon": "55.783799156758",
+                "name": "Магазин Рива",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.774038154805,
+                    58.08766361753
+                ]
+            },
+            "properties": {
+                "lat": "58.08766361753",
+                "lon": "55.774038154805",
+                "name": "Магазин Элита",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.770158154029,
+                    58.086484617295
+                ]
+            },
+            "properties": {
+                "lat": "58.086484617295",
+                "lon": "55.770158154029",
+                "name": "Магазин Ангор",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.762884152575,
+                    58.087092617416
+                ]
+            },
+            "properties": {
+                "lat": "58.087092617416",
+                "lon": "55.762884152575",
+                "name": "Лицей №32",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.75671015134,
+                    58.088019617602
+                ]
+            },
+            "properties": {
+                "lat": "58.088019617602",
+                "lon": "55.75671015134",
+                "name": "Пушкина",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.753245150647,
+                    58.085625617123
+                ]
+            },
+            "properties": {
+                "lat": "58.085625617123",
+                "lon": "55.753245150647",
+                "name": "Карла Маркса",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.753608150719,
+                    58.081106616219
+                ]
+            },
+            "properties": {
+                "lat": "58.081106616219",
+                "lon": "55.753608150719",
+                "name": "КДЦ Родина",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.791446158287,
+                    58.069897613977
+                ]
+            },
+            "properties": {
+                "lat": "58.069897613977",
+                "lon": "55.791446158287",
+                "name": "АТП",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.742335148465,
+                    58.076620615322
+                ]
+            },
+            "properties": {
+                "lat": "58.076620615322",
+                "lon": "55.742335148465",
+                "name": "Фабрика Гознак",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.783129156624,
+                    58.073086614615
+                ]
+            },
+            "properties": {
+                "lat": "58.073086614615",
+                "lon": "55.783129156624",
+                "name": "Нефтебаза",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.741954148389,
+                    58.080142616026
+                ]
+            },
+            "properties": {
+                "lat": "58.080142616026",
+                "lon": "55.741954148389",
+                "name": "Магазин Мастер",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.7470111494,
+                    58.08176361635
+                ]
+            },
+            "properties": {
+                "lat": "58.08176361635",
+                "lon": "55.7470111494",
+                "name": "Магазин Виват",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.800897160177,
+                    58.071281614254
+                ]
+            },
+            "properties": {
+                "lat": "58.071281614254",
+                "lon": "55.800897160177",
+                "name": "Дом культуры Нефтяник",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.740487148095,
+                    58.073484614695
+                ]
+            },
+            "properties": {
+                "lat": "58.073484614695",
+                "lon": "55.740487148095",
+                "name": "Берег Камы",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.758334151665,
+                    58.08111261622
+                ]
+            },
+            "properties": {
+                "lat": "58.08111261622",
+                "lon": "55.758334151665",
+                "name": "Торговый центр Добрыня",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.797246159447,
+                    58.068816613761
+                ]
+            },
+            "properties": {
+                "lat": "58.068816613761",
+                "lon": "55.797246159447",
+                "name": "Магазин Нина",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.810176162033,
+                    58.079097615817
+                ]
+            },
+            "properties": {
+                "lat": "58.079097615817",
+                "lon": "55.810176162033",
+                "name": "Микрорайон Матросова",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.803535160705,
+                    58.074564614911
+                ]
+            },
+            "properties": {
+                "lat": "58.074564614911",
+                "lon": "55.803535160705",
+                "name": "Красная",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.756370151272,
+                    58.082855616569
+                ]
+            },
+            "properties": {
+                "lat": "58.082855616569",
+                "lon": "55.756370151272",
+                "name": "Торговый центр Парк",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.807252161448,
+                    58.07626061525
+                ]
+            },
+            "properties": {
+                "lat": "58.07626061525",
+                "lon": "55.807252161448",
+                "name": "По требованию (ул. Красная)",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.799866159971,
+                    58.074406614879
+                ]
+            },
+            "properties": {
+                "lat": "58.074406614879",
+                "lon": "55.799866159971",
+                "name": "Отворот (Заводской)",
+                "img": "/img/map-red.png"
+            }
+        }
+    ]
+}

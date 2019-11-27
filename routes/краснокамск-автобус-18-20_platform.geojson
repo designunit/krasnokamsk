@@ -1,0 +1,389 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.745675149133,
+                    58.084425616883
+                ]
+            },
+            "properties": {
+                "lat": "58.084425616883",
+                "lon": "55.745675149133",
+                "name": "Техникум",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.733927146783,
+                    58.080576616113
+                ]
+            },
+            "properties": {
+                "lat": "58.080576616113",
+                "lon": "55.733927146783",
+                "name": "Аптека",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.736996147397,
+                    58.078833615764
+                ]
+            },
+            "properties": {
+                "lat": "58.078833615764",
+                "lon": "55.736996147397",
+                "name": "пл. Гознака",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.785856157169,
+                    58.082830616564
+                ]
+            },
+            "properties": {
+                "lat": "58.082830616564",
+                "lon": "55.785856157169",
+                "name": "Макаронная фабрика",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.783799156758,
+                    58.087820617562
+                ]
+            },
+            "properties": {
+                "lat": "58.087820617562",
+                "lon": "55.783799156758",
+                "name": "Магазин Рива",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.774038154805,
+                    58.08766361753
+                ]
+            },
+            "properties": {
+                "lat": "58.08766361753",
+                "lon": "55.774038154805",
+                "name": "Магазин Элита",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.770158154029,
+                    58.086484617295
+                ]
+            },
+            "properties": {
+                "lat": "58.086484617295",
+                "lon": "55.770158154029",
+                "name": "Магазин Ангор",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.762884152575,
+                    58.087092617416
+                ]
+            },
+            "properties": {
+                "lat": "58.087092617416",
+                "lon": "55.762884152575",
+                "name": "Лицей №32",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.75671015134,
+                    58.088019617602
+                ]
+            },
+            "properties": {
+                "lat": "58.088019617602",
+                "lon": "55.75671015134",
+                "name": "Пушкина",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.73906214781,
+                    58.082219616442
+                ]
+            },
+            "properties": {
+                "lat": "58.082219616442",
+                "lon": "55.73906214781",
+                "name": "Банно-прачечный комбинат",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.769064153811,
+                    58.074291614856
+                ]
+            },
+            "properties": {
+                "lat": "58.074291614856",
+                "lon": "55.769064153811",
+                "name": "КЗМС",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.790668158131,
+                    58.070318614061
+                ]
+            },
+            "properties": {
+                "lat": "58.070318614061",
+                "lon": "55.790668158131",
+                "name": "АТП",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.751358150269,
+                    58.086285617255
+                ]
+            },
+            "properties": {
+                "lat": "58.086285617255",
+                "lon": "55.751358150269",
+                "name": "Поликлиника",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.741564148311,
+                    58.080091616016
+                ]
+            },
+            "properties": {
+                "lat": "58.080091616016",
+                "lon": "55.741564148311",
+                "name": "Магазин Мастер",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.747247149447,
+                    58.08191261638
+                ]
+            },
+            "properties": {
+                "lat": "58.08191261638",
+                "lon": "55.747247149447",
+                "name": "Магазин Виват",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.800696160137,
+                    58.071203614238
+                ]
+            },
+            "properties": {
+                "lat": "58.071203614238",
+                "lon": "55.800696160137",
+                "name": "Дом культуры Нефтяник",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.797355159469,
+                    58.068947613787
+                ]
+            },
+            "properties": {
+                "lat": "58.068947613787",
+                "lon": "55.797355159469",
+                "name": "Магазин Нина",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.801023160202,
+                    58.085702617138
+                ]
+            },
+            "properties": {
+                "lat": "58.085702617138",
+                "lon": "55.801023160202",
+                "name": "Речной пер",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.798467159691,
+                    58.081930616384
+                ]
+            },
+            "properties": {
+                "lat": "58.081930616384",
+                "lon": "55.798467159691",
+                "name": "Магазин №5",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.796555159309,
+                    58.075407615079
+                ]
+            },
+            "properties": {
+                "lat": "58.075407615079",
+                "lon": "55.796555159309",
+                "name": "Новостройки",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.79586215917,
+                    58.078397615677
+                ]
+            },
+            "properties": {
+                "lat": "58.078397615677",
+                "lon": "55.79586215917",
+                "name": "Школа №6",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.754524150903,
+                    58.080395616077
+                ]
+            },
+            "properties": {
+                "lat": "58.080395616077",
+                "lon": "55.754524150903",
+                "name": "КДЦ Родина",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.799239159846,
+                    58.087703617538
+                ]
+            },
+            "properties": {
+                "lat": "58.087703617538",
+                "lon": "55.799239159846",
+                "name": "Мост",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.78091115618,
+                    58.072174614433
+                ]
+            },
+            "properties": {
+                "lat": "58.072174614433",
+                "lon": "55.78091115618",
+                "name": "УТТ",
+                "img": "/img/map-lime.png"
+            }
+        }
+    ]
+}

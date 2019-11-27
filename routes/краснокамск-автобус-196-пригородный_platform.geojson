@@ -1,0 +1,837 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.757623151522,
+                    58.078164615631
+                ]
+            },
+            "properties": {
+                "lat": "58.078164615631",
+                "lon": "55.757623151522",
+                "name": "Автовокзал",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.786205157239,
+                    58.082845616567
+                ]
+            },
+            "properties": {
+                "lat": "58.082845616567",
+                "lon": "55.786205157239",
+                "name": "Макаронная фабрика",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.783295156657,
+                    58.087875617573
+                ]
+            },
+            "properties": {
+                "lat": "58.087875617573",
+                "lon": "55.783295156657",
+                "name": "Магазин Рива",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.772724154543,
+                    58.087440617486
+                ]
+            },
+            "properties": {
+                "lat": "58.087440617486",
+                "lon": "55.772724154543",
+                "name": "Магазин Элита",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.768039153606,
+                    58.085831617164
+                ]
+            },
+            "properties": {
+                "lat": "58.085831617164",
+                "lon": "55.768039153606",
+                "name": "Магазин Ангор",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.763843152766,
+                    58.086393617276
+                ]
+            },
+            "properties": {
+                "lat": "58.086393617276",
+                "lon": "55.763843152766",
+                "name": "Лицей №32",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.756940151386,
+                    58.088167617631
+                ]
+            },
+            "properties": {
+                "lat": "58.088167617631",
+                "lon": "55.756940151386",
+                "name": "Пушкина",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.753154150629,
+                    58.086940617386
+                ]
+            },
+            "properties": {
+                "lat": "58.086940617386",
+                "lon": "55.753154150629",
+                "name": "Поликлиника",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.753538150705,
+                    58.085244617047
+                ]
+            },
+            "properties": {
+                "lat": "58.085244617047",
+                "lon": "55.753538150705",
+                "name": "Карла Маркса",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.758776151753,
+                    58.080598616117
+                ]
+            },
+            "properties": {
+                "lat": "58.080598616117",
+                "lon": "55.758776151753",
+                "name": "Торговый центр Добрыня",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.798484159695,
+                    58.087831617564
+                ]
+            },
+            "properties": {
+                "lat": "58.087831617564",
+                "lon": "55.798484159695",
+                "name": "Мост",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.806677161333,
+                    58.09540961908
+                ]
+            },
+            "properties": {
+                "lat": "58.09540961908",
+                "lon": "55.806677161333",
+                "name": "пос. Новое Матросова",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.803021160602,
+                    58.091706618339
+                ]
+            },
+            "properties": {
+                "lat": "58.091706618339",
+                "lon": "55.803021160602",
+                "name": "Берёзовый пер",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.94836118967,
+                    58.179689635936
+                ]
+            },
+            "properties": {
+                "lat": "58.179689635936",
+                "lon": "55.94836118967",
+                "name": "с. Стряпунята",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.827497165497,
+                    58.109517621901
+                ]
+            },
+            "properties": {
+                "lat": "58.109517621901",
+                "lon": "55.827497165497",
+                "name": "Отворот на Оверята",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.834830166964,
+                    58.114058622809
+                ]
+            },
+            "properties": {
+                "lat": "58.114058622809",
+                "lon": "55.834830166964",
+                "name": "д. Новая Ивановка",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.853879170774,
+                    58.124283624854
+                ]
+            },
+            "properties": {
+                "lat": "58.124283624854",
+                "lon": "55.853879170774",
+                "name": "д. Кормильцы",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.868827173763,
+                    58.126000625198
+                ]
+            },
+            "properties": {
+                "lat": "58.126000625198",
+                "lon": "55.868827173763",
+                "name": "Дачи",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.893456178689,
+                    58.130779626154
+                ]
+            },
+            "properties": {
+                "lat": "58.130779626154",
+                "lon": "55.893456178689",
+                "name": "Кладбище",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.884149176828,
+                    58.148852629768
+                ]
+            },
+            "properties": {
+                "lat": "58.148852629768",
+                "lon": "55.884149176828",
+                "name": "д. Брагино",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.89671217934,
+                    58.165466633091
+                ]
+            },
+            "properties": {
+                "lat": "58.165466633091",
+                "lon": "55.89671217934",
+                "name": "Отворот на Якунята",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.909973181992,
+                    58.18006163601
+                ]
+            },
+            "properties": {
+                "lat": "58.18006163601",
+                "lon": "55.909973181992",
+                "name": "д. Батуры",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.961642192326,
+                    58.175707635139
+                ]
+            },
+            "properties": {
+                "lat": "58.175707635139",
+                "lon": "55.961642192326",
+                "name": "По требованию",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.007193201436,
+                    58.172014634401
+                ]
+            },
+            "properties": {
+                "lat": "58.172014634401",
+                "lon": "56.007193201436",
+                "name": "пос. Подстанция",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.032198206437,
+                    58.166370633272
+                ]
+            },
+            "properties": {
+                "lat": "58.166370633272",
+                "lon": "56.032198206437",
+                "name": "д. Ильино",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.062277212453,
+                    58.175491635096
+                ]
+            },
+            "properties": {
+                "lat": "58.175491635096",
+                "lon": "56.062277212453",
+                "name": "д. Екимята",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.757623151522,
+                    58.078164615631
+                ]
+            },
+            "properties": {
+                "lat": "58.078164615631",
+                "lon": "55.757623151522",
+                "name": "Автовокзал",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.785856157169,
+                    58.082830616564
+                ]
+            },
+            "properties": {
+                "lat": "58.082830616564",
+                "lon": "55.785856157169",
+                "name": "Макаронная фабрика",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.783799156758,
+                    58.087820617562
+                ]
+            },
+            "properties": {
+                "lat": "58.087820617562",
+                "lon": "55.783799156758",
+                "name": "Магазин Рива",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.774038154805,
+                    58.08766361753
+                ]
+            },
+            "properties": {
+                "lat": "58.08766361753",
+                "lon": "55.774038154805",
+                "name": "Магазин Элита",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.770158154029,
+                    58.086484617295
+                ]
+            },
+            "properties": {
+                "lat": "58.086484617295",
+                "lon": "55.770158154029",
+                "name": "Магазин Ангор",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.762884152575,
+                    58.087092617416
+                ]
+            },
+            "properties": {
+                "lat": "58.087092617416",
+                "lon": "55.762884152575",
+                "name": "Лицей №32",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.75671015134,
+                    58.088019617602
+                ]
+            },
+            "properties": {
+                "lat": "58.088019617602",
+                "lon": "55.75671015134",
+                "name": "Пушкина",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.753245150647,
+                    58.085625617123
+                ]
+            },
+            "properties": {
+                "lat": "58.085625617123",
+                "lon": "55.753245150647",
+                "name": "Карла Маркса",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.758334151665,
+                    58.08111261622
+                ]
+            },
+            "properties": {
+                "lat": "58.08111261622",
+                "lon": "55.758334151665",
+                "name": "Торговый центр Добрыня",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.799328159863,
+                    58.088284617655
+                ]
+            },
+            "properties": {
+                "lat": "58.088284617655",
+                "lon": "55.799328159863",
+                "name": "Мост",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.806940161386,
+                    58.095571619112
+                ]
+            },
+            "properties": {
+                "lat": "58.095571619112",
+                "lon": "55.806940161386",
+                "name": "пос. Новое Матросова",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.756370151272,
+                    58.082855616569
+                ]
+            },
+            "properties": {
+                "lat": "58.082855616569",
+                "lon": "55.756370151272",
+                "name": "Торговый центр Парк",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.803388160675,
+                    58.09191161838
+                ]
+            },
+            "properties": {
+                "lat": "58.09191161838",
+                "lon": "55.803388160675",
+                "name": "Берёзовый пер",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.827732165544,
+                    58.109617621921
+                ]
+            },
+            "properties": {
+                "lat": "58.109617621921",
+                "lon": "55.827732165544",
+                "name": "Отворот на Оверята",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.834822166962,
+                    58.114008622799
+                ]
+            },
+            "properties": {
+                "lat": "58.114008622799",
+                "lon": "55.834822166962",
+                "name": "д. Новая Ивановка",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.853237170645,
+                    58.123857624769
+                ]
+            },
+            "properties": {
+                "lat": "58.123857624769",
+                "lon": "55.853237170645",
+                "name": "д. Кормильцы",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.869441173886,
+                    58.12611262522
+                ]
+            },
+            "properties": {
+                "lat": "58.12611262522",
+                "lon": "55.869441173886",
+                "name": "Дачи",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.893687178735,
+                    58.130779626154
+                ]
+            },
+            "properties": {
+                "lat": "58.130779626154",
+                "lon": "55.893687178735",
+                "name": "Кладбище",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.884484176895,
+                    58.149095629817
+                ]
+            },
+            "properties": {
+                "lat": "58.149095629817",
+                "lon": "55.884484176895",
+                "name": "д. Брагино",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.897358179469,
+                    58.165730633144
+                ]
+            },
+            "properties": {
+                "lat": "58.165730633144",
+                "lon": "55.897358179469",
+                "name": "Отворот на Якунята",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.91036218207,
+                    58.180099636018
+                ]
+            },
+            "properties": {
+                "lat": "58.180099636018",
+                "lon": "55.91036218207",
+                "name": "д. Батуры",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.007207201439,
+                    58.171974634393
+                ]
+            },
+            "properties": {
+                "lat": "58.171974634393",
+                "lon": "56.007207201439",
+                "name": "пос. Подстанция",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.034482206894,
+                    58.166254633249
+                ]
+            },
+            "properties": {
+                "lat": "58.166254633249",
+                "lon": "56.034482206894",
+                "name": "д. Ильино",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.062277212453,
+                    58.175491635096
+                ]
+            },
+            "properties": {
+                "lat": "58.175491635096",
+                "lon": "56.062277212453",
+                "name": "д. Екимята",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.961928192383,
+                    58.175704635139
+                ]
+            },
+            "properties": {
+                "lat": "58.175704635139",
+                "lon": "55.961928192383",
+                "name": "По требованию",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.948974189793,
+                    58.17871163574
+                ]
+            },
+            "properties": {
+                "lat": "58.17871163574",
+                "lon": "55.948974189793",
+                "name": "с. Стряпунята",
+                "img": "/img/map-red.png"
+            }
+        }
+    ]
+}

@@ -1,0 +1,421 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.757623151522,
+                    58.078164615631
+                ]
+            },
+            "properties": {
+                "lat": "58.078164615631",
+                "lon": "55.757623151522",
+                "name": "Автовокзал",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.75671015134,
+                    58.088019617602
+                ]
+            },
+            "properties": {
+                "lat": "58.088019617602",
+                "lon": "55.75671015134",
+                "name": "Пушкина",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.753245150647,
+                    58.085625617123
+                ]
+            },
+            "properties": {
+                "lat": "58.085625617123",
+                "lon": "55.753245150647",
+                "name": "Карла Маркса",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.758334151665,
+                    58.08111261622
+                ]
+            },
+            "properties": {
+                "lat": "58.08111261622",
+                "lon": "55.758334151665",
+                "name": "Торговый центр Добрыня",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.756370151272,
+                    58.082855616569
+                ]
+            },
+            "properties": {
+                "lat": "58.082855616569",
+                "lon": "55.756370151272",
+                "name": "Торговый центр Парк",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.705388141075,
+                    58.142840628566
+                ]
+            },
+            "properties": {
+                "lat": "58.142840628566",
+                "lon": "55.705388141075",
+                "name": "д. Малые Шабуничи",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.679746135947,
+                    58.137492627496
+                ]
+            },
+            "properties": {
+                "lat": "58.137492627496",
+                "lon": "55.679746135947",
+                "name": "пос. Шабуничи",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.688304137659,
+                    58.139792627956
+                ]
+            },
+            "properties": {
+                "lat": "58.139792627956",
+                "lon": "55.688304137659",
+                "name": "По требованию",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.697755139549,
+                    58.141228628243
+                ]
+            },
+            "properties": {
+                "lat": "58.141228628243",
+                "lon": "55.697755139549",
+                "name": "По требованию",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.729165145831,
+                    58.144566628911
+                ]
+            },
+            "properties": {
+                "lat": "58.144566628911",
+                "lon": "55.729165145831",
+                "name": "По требованию",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.737198147437,
+                    58.140338628065
+                ]
+            },
+            "properties": {
+                "lat": "58.140338628065",
+                "lon": "55.737198147437",
+                "name": "с. Чёрная",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.740920148182,
+                    58.136377627273
+                ]
+            },
+            "properties": {
+                "lat": "58.136377627273",
+                "lon": "55.740920148182",
+                "name": "д. Даньки",
+                "img": "/img/map-lime.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.757623151522,
+                    58.078164615631
+                ]
+            },
+            "properties": {
+                "lat": "58.078164615631",
+                "lon": "55.757623151522",
+                "name": "Автовокзал",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.736996147397,
+                    58.078833615764
+                ]
+            },
+            "properties": {
+                "lat": "58.078833615764",
+                "lon": "55.736996147397",
+                "name": "пл. Гознака",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.756940151386,
+                    58.088167617631
+                ]
+            },
+            "properties": {
+                "lat": "58.088167617631",
+                "lon": "55.756940151386",
+                "name": "Пушкина",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.753538150705,
+                    58.085244617047
+                ]
+            },
+            "properties": {
+                "lat": "58.085244617047",
+                "lon": "55.753538150705",
+                "name": "Карла Маркса",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.741564148311,
+                    58.080091616016
+                ]
+            },
+            "properties": {
+                "lat": "58.080091616016",
+                "lon": "55.741564148311",
+                "name": "Магазин Мастер",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.747247149447,
+                    58.08191261638
+                ]
+            },
+            "properties": {
+                "lat": "58.08191261638",
+                "lon": "55.747247149447",
+                "name": "Магазин Виват",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.753227150643,
+                    58.077002615398
+                ]
+            },
+            "properties": {
+                "lat": "58.077002615398",
+                "lon": "55.753227150643",
+                "name": "ЦБК Кама",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.706298141257,
+                    58.143107628619
+                ]
+            },
+            "properties": {
+                "lat": "58.143107628619",
+                "lon": "55.706298141257",
+                "name": "д. Малые Шабуничи",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.679746135947,
+                    58.137492627496
+                ]
+            },
+            "properties": {
+                "lat": "58.137492627496",
+                "lon": "55.679746135947",
+                "name": "пос. Шабуничи",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.689295137857,
+                    58.13990962798
+                ]
+            },
+            "properties": {
+                "lat": "58.13990962798",
+                "lon": "55.689295137857",
+                "name": "По требованию",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.698646139727,
+                    58.141325628263
+                ]
+            },
+            "properties": {
+                "lat": "58.141325628263",
+                "lon": "55.698646139727",
+                "name": "По требованию",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.72961114592,
+                    58.144258628849
+                ]
+            },
+            "properties": {
+                "lat": "58.144258628849",
+                "lon": "55.72961114592",
+                "name": "По требованию",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.736797147357,
+                    58.14015962803
+                ]
+            },
+            "properties": {
+                "lat": "58.14015962803",
+                "lon": "55.736797147357",
+                "name": "с. Чёрная",
+                "img": "/img/map-red.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.741304148259,
+                    58.136152627228
+                ]
+            },
+            "properties": {
+                "lat": "58.136152627228",
+                "lon": "55.741304148259",
+                "name": "д. Даньки",
+                "img": "/img/map-red.png"
+            }
+        }
+    ]
+}
