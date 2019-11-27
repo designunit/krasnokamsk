@@ -1,6 +1,6 @@
 import * as  React from 'react'
 
-import App, { Container } from 'next/app'
+import App from 'next/app'
 
 import 'antd/dist/antd.css'
 import 'mapbox-gl/dist/mapbox-gl.css'
@@ -10,7 +10,7 @@ export default class MyApp extends App {
         const { Component, pageProps } = this.props
 
         return (
-            <Container>
+            <>
                 <style global jsx>{`
                     #__next {
                         height: 100%;
@@ -18,7 +18,7 @@ export default class MyApp extends App {
                 `}</style>
 
                 <Component {...pageProps} />
-            </Container >
+            </>
         )
     }
 }
