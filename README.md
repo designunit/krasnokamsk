@@ -4,8 +4,6 @@
 
 1. Add favicon
 
-jjjj
-
 Remove this line in `/readymag/index.html` in head section:
 
 ```html
