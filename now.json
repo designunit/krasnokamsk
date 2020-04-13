@@ -1,15 +1,16 @@
 {
     "version": 2,
     "name": "krasnokamsk",
-    "build": {
-        "env": {
-            "APP_ACCESS_MODE": ""
-        }
-    },
     "builds": [
         {
-            "src": "next.config.js",
-            "use": "@now/next"
+            "src": "/main/**",
+            "use": "@now/static"
+        }
+    ],
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "/$1"
         }
     ]
 }

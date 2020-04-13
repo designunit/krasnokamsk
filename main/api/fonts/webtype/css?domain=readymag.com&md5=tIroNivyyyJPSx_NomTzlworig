@@ -1,0 +1,392 @@
+
+
+@font-face {
+  font-family: "Apres RE";
+  src: url("/fonts/webtype/Apres RE Bold Italic/6383064c-e2b2-4134-88c1-e7ac21ef9fc9-3.woff?domain=readymag.com&md5=YDggzuKxXCb2w1Ez-Jtjkg") format("woff");
+  font-style: italic;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Apres RE";
+  src: url("/fonts/webtype/Apres RE Bold/f478e9c3-cefa-4e94-a4e5-74da239db4ea-3.woff?domain=readymag.com&md5=WUPyghpw6MoMVlMxIq23XA") format("woff");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Apres RE";
+  src: url("/fonts/webtype/Apres RE Italic/5a1b985d-0872-4597-a257-52ae563a1bdd-3.woff?domain=readymag.com&md5=9Uh2K5ferjttEk6UY4PUJw") format("woff");
+  font-style: italic;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Apres RE";
+  src: url("/fonts/webtype/Apres RE/66f729fd-33ee-4b0f-99ac-6bc5135ae9f7-3.woff?domain=readymag.com&md5=LsoWQoD_Sn5iaaCS3OoURA") format("woff");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Benton Modern RE";
+  src: url("/fonts/webtype/Benton Modern RE Bold Italic/2eabbeb7-4840-4ebb-a3a2-a485992841ef-3.woff?domain=readymag.com&md5=MIF2rpBZdXVmrgIigSrYuQ") format("woff");
+  font-style: italic;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Benton Modern RE";
+  src: url("/fonts/webtype/Benton Modern RE Bold/a233eaae-4f83-4aab-9c35-38eac98ae2cc-3.woff?domain=readymag.com&md5=2lMtxVCW-uAv6dmQB27VBg") format("woff");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Benton Modern RE";
+  src: url("/fonts/webtype/Benton Modern RE Italic/e97a8878-d6be-4951-a3c6-ff1b766d3f70-3.woff?domain=readymag.com&md5=GY6jE0ALizWu9QNIbDOApQ") format("woff");
+  font-style: italic;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Benton Modern RE";
+  src: url("/fonts/webtype/Benton Modern RE/2984fb9b-6c72-41f0-a358-32fb379b2232-3.woff?domain=readymag.com&md5=4XKI0o2aEjY8uhRwbLk42A") format("woff");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Benton Sans RE";
+  src: url("/fonts/webtype/Benton Sans RE Bold Italic/87e29d42-48a1-4a0d-9d43-95ce7c2284b7-3.woff?domain=readymag.com&md5=nhr4dFr87MAoYH8PZyQ0gQ") format("woff");
+  font-style: italic;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Benton Sans RE";
+  src: url("/fonts/webtype/Benton Sans RE Bold/01ed1cc1-9b10-4914-9aaa-afea3c0d3ccd-3.woff?domain=readymag.com&md5=3yiHe6tFYVcRckc_s3DQNg") format("woff");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Benton Sans RE";
+  src: url("/fonts/webtype/Benton Sans RE Italic/a3baae5f-4139-45a9-9d59-e4c9e1893e59-3.woff?domain=readymag.com&md5=Zozy65ZE7xdX9_YpizMv5w") format("woff");
+  font-style: italic;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Benton Sans RE";
+  src: url("/fonts/webtype/Benton Sans RE/a7a80614-0ca2-420b-a3dc-e95d7e14f427-3.woff?domain=readymag.com&md5=oq66_JMR8oaeQCyy8dFdcQ") format("woff");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Calibri";
+  src: url("/fonts/webtype/Calibri Bold/41418c54-7f7b-4fad-a2f7-78928bf2ed62-3.woff?domain=readymag.com&md5=M8_vaCd1mAHpI7dRv21Wfg") format("woff");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Calibri";
+  src: url("/fonts/webtype/Calibri Italic/11ddc6dd-5e04-4c86-a918-6503074fe8fa-3.woff?domain=readymag.com&md5=_lrmtwew_yyZfyqoDCFpHA") format("woff");
+  font-style: italic;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Calibri";
+  src: url("/fonts/webtype/Calibri/a16c9232-210e-4c6f-9129-53bdf5261037-3.woff?domain=readymag.com&md5=zhWn_H4jivBhbH4Knfmdeg") format("woff");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Farnham Display";
+  src: url("/fonts/webtype/Farnham Display Light Italic/e3b1bde8-22d2-4f6d-be48-7d0ae7f247a5-3.woff?domain=readymag.com&md5=W27My1BYIhgwWDNPhTkHpA") format("woff");
+  font-style: italic;
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Farnham Display";
+  src: url("/fonts/webtype/Farnham Display Light/29b09fee-d041-4e9a-90d0-42dd3b238d8c-3.woff?domain=readymag.com&md5=Xd7QsEri466Po2aSExCVJg") format("woff");
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Farnham Text";
+  src: url("/fonts/webtype/Farnham Text Bold Italic/870dc489-9199-4d8d-b0e5-a0fe901b500f-3.woff?domain=readymag.com&md5=muZz8e3X_bO8YWdw9Zafqg") format("woff");
+  font-style: italic;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Farnham Text";
+  src: url("/fonts/webtype/Farnham Text Bold/2f3bf92d-3069-450a-a2ea-f0dadb212b44-3.woff?domain=readymag.com&md5=Vag_B5_XRCGv6oxyIn1owA") format("woff");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Farnham Text";
+  src: url("/fonts/webtype/Farnham Text Regular Italic/481a9fbd-75a7-4971-953e-0a280359c90d-3.woff?domain=readymag.com&md5=qLHXVlVvQxlvnWLDR54RKA") format("woff");
+  font-style: italic;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Farnham Text";
+  src: url("/fonts/webtype/Farnham Text Regular/59cfb526-014b-4b7f-993c-291b44b52586-3.woff?domain=readymag.com&md5=O16cIS69Vj7OKBNSesWRow") format("woff");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Freight Big";
+  src: url("/fonts/webtype/Freight Big Black/4751a28a-f4f2-4de1-aedf-3b826a700f5e-3.woff?domain=readymag.com&md5=A-Ej2bolY3yUcg9IDmn8ew") format("woff");
+  font-style: normal;
+  font-weight: 900;
+}
+@font-face {
+  font-family: "Freight Big";
+  src: url("/fonts/webtype/Freight Big Bold/458fee5b-f1f0-44c8-b928-4f02c01a6039-3.woff?domain=readymag.com&md5=lbsVtX4C3QsxW8CA3nk7vA") format("woff");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Freight Big";
+  src: url("/fonts/webtype/Freight Big Medium/f517783b-941e-44fe-98cf-eb6356ce3eb6-3.woff?domain=readymag.com&md5=N5rDwG9N-iqf65LfnKt4aw") format("woff");
+  font-style: normal;
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Georgia Pro";
+  src: url("/fonts/webtype/Georgia Pro Black/4ec59c91-f66b-4751-8456-e114e9e14673-3.woff?domain=readymag.com&md5=DY9lCgl7vguYwLL9mbfxow") format("woff");
+  font-style: normal;
+  font-weight: 900;
+}
+@font-face {
+  font-family: "Georgia Pro";
+  src: url("/fonts/webtype/Georgia Pro Bold Italic/6f283590-c3c2-416a-95c2-ca67d04aa929-3.woff?domain=readymag.com&md5=MMMaxVJKRtjw3PrwbSQCSQ") format("woff");
+  font-style: italic;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Georgia Pro";
+  src: url("/fonts/webtype/Georgia Pro Bold/6f633c58-c751-4d08-9cea-2b27f74f37de-3.woff?domain=readymag.com&md5=XJj6U7pW0IFl_q3xNiTHqw") format("woff");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Georgia Pro";
+  src: url("/fonts/webtype/Georgia Pro Italic/e3bc0ad4-bdaa-4467-82a0-d90f697b7266-3.woff?domain=readymag.com&md5=iBdqHQPoyrXHYyWlwBprhQ") format("woff");
+  font-style: italic;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Georgia Pro";
+  src: url("/fonts/webtype/Georgia Pro SemiBold Italic/0e025df5-ba54-4bbb-84b4-c5b337a5b55b-3.woff?domain=readymag.com&md5=Bd9tWlnXjkIJEkSkIdnT5Q") format("woff");
+  font-style: italic;
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Georgia Pro";
+  src: url("/fonts/webtype/Georgia Pro SemiBold/60fe12ce-0223-4a9a-8e5c-b3e7bd381bc4-3.woff?domain=readymag.com&md5=UKlDyi8VrDhPGIX7MwNtdg") format("woff");
+  font-style: normal;
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Georgia Pro";
+  src: url("/fonts/webtype/Georgia Pro/b97bef32-c0cb-4ad3-b724-1204d229731c-3.woff?domain=readymag.com&md5=30mngPuLt2zeHhS7xBBonQ") format("woff");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Gill Sans";
+  src: url("/fonts/webtype/Gill Sans Bold/73cdb885-dbc4-40e1-b944-19e38ee15606-3.woff?domain=readymag.com&md5=mffUXGFf3Gy1iWbzSnBQ-w") format("woff");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Gill Sans";
+  src: url("/fonts/webtype/Gill Sans Italic/2bdfa749-1350-4060-b7b7-9c747821f2e4-3.woff?domain=readymag.com&md5=jLR1kJNQEs3OijySKz0ZzQ") format("woff");
+  font-style: italic;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Gill Sans";
+  src: url("/fonts/webtype/Gill Sans Light/4f8ac960-65b1-4180-89d8-3273c373aa98-3.woff?domain=readymag.com&md5=e48GxFqLRoYVcCpMURqj7A") format("woff");
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Gill Sans";
+  src: url("/fonts/webtype/Gill Sans/7d59e5c7-3259-4c0f-9aa2-a4f510dfc7b5-3.woff?domain=readymag.com&md5=9K-KVVfE5976WCyT7WeTDw") format("woff");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "News Gothic";
+  src: url("/fonts/webtype/News Gothic Bold Italic/c6f4e54e-1d69-4559-b813-e2fc4ff29160-3.woff?domain=readymag.com&md5=YpVccjCXBROr3d33z6UJWA") format("woff");
+  font-style: italic;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "News Gothic";
+  src: url("/fonts/webtype/News Gothic Bold/9aab62b7-bc6f-405a-ad75-227bcf89d9dc-3.woff?domain=readymag.com&md5=A7I3VDsou_fL83JCglcLNg") format("woff");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "News Gothic";
+  src: url("/fonts/webtype/News Gothic Italic/6327ba72-bfd5-4038-9658-e3a4a95a5c98-3.woff?domain=readymag.com&md5=CmnMIJ30xqwp20JpNdng2w") format("woff");
+  font-style: italic;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "News Gothic";
+  src: url("/fonts/webtype/News Gothic/915b0ec4-cd16-40de-883e-1d77c3d07840-3.woff?domain=readymag.com&md5=nmAkK2Jvg59h-U5xNdxFfw") format("woff");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Nitti";
+  src: url("/fonts/webtype/Nitti Light Italic/15aba0ec-4ceb-49e2-985c-a95134a60aed-3.woff?domain=readymag.com&md5=IIfHCsAefilJoKhsicbRjA") format("woff");
+  font-style: italic;
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Nitti";
+  src: url("/fonts/webtype/Nitti Light/6fd7c5e9-3131-4cb6-a99e-da74343b1253-3.woff?domain=readymag.com&md5=fnVyzDp8upnTV04RbilKdw") format("woff");
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Nitti";
+  src: url("/fonts/webtype/Nitti Medium/9054f262-2d2d-480f-9360-4560f110243b-3.woff?domain=readymag.com&md5=fPg9BhUxrxSUntfiImNYNw") format("woff");
+  font-style: normal;
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Nobel";
+  src: url("/fonts/webtype/Nobel Bold/2ef991dd-b42f-4be2-823a-0c299092e54c-3.woff?domain=readymag.com&md5=azr42ZpIYcpVwr59M-havA") format("woff");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Nobel";
+  src: url("/fonts/webtype/Nobel Book Italic/3bbf92ec-da3f-46ee-9a44-9a24a0e50d65-3.woff?domain=readymag.com&md5=LIAl9n18z9xhBgKe8CdAwg") format("woff");
+  font-style: italic;
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Nobel";
+  src: url("/fonts/webtype/Nobel Book/33f41f0b-1cb3-4fe4-b692-684b0154030b-3.woff?domain=readymag.com&md5=gG30G59XGlTdKVWtugL7Rw") format("woff");
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Nobel";
+  src: url("/fonts/webtype/Nobel Light/b78bdfba-7002-4c64-8f9a-48f36d5f020b-3.woff?domain=readymag.com&md5=2GOnik4KmKp2ABiSJYMVRA") format("woff");
+  font-style: normal;
+  font-weight: 200;
+}
+@font-face {
+  font-family: "Nobel";
+  src: url("/fonts/webtype/Nobel Regular Italic/edfe2aac-e541-42cd-ad3a-f51b843f4f92-3.woff?domain=readymag.com&md5=NJ_IBd6ZdJaAmtX60CZl0Q") format("woff");
+  font-style: italic;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Nobel";
+  src: url("/fonts/webtype/Nobel Regular/a9613c98-73bc-4667-b826-f27e36e923e6-3.woff?domain=readymag.com&md5=0QmPlTLhd8Abb4CE8r_cgg") format("woff");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Parkinson";
+  src: url("/fonts/webtype/Parkinson Bold/7a136c73-6813-4dfb-aa8e-f67c9a3ad3f2-3.woff?domain=readymag.com&md5=Fx4KrVho6S2PMS1KWFhRWQ") format("woff");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Parkinson";
+  src: url("/fonts/webtype/Parkinson Italic/22b230a3-1384-4afe-aeb3-36464be50fcf-3.woff?domain=readymag.com&md5=xeRpNRm8mmIK3evw-gFxgw") format("woff");
+  font-style: italic;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Parkinson";
+  src: url("/fonts/webtype/Parkinson Medium/9627f153-c538-4fbf-a965-c7a0536ccc48-3.woff?domain=readymag.com&md5=7pJ81Loil1l0IkQqeKKQnA") format("woff");
+  font-style: normal;
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Parkinson";
+  src: url("/fonts/webtype/Parkinson Roman/7fa7f7be-ba0e-4224-ae4f-86feb42146e1-3.woff?domain=readymag.com&md5=Nc7TdrQH8wVUfKC-Z6QCxw") format("woff");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Scout RE";
+  src: url("/fonts/webtype/Scout RE Bold Italic/e3780a27-f942-4591-8fe3-1a71ce597542-3.woff?domain=readymag.com&md5=agAmi-9VYFN0z46Jwa8hNg") format("woff");
+  font-style: italic;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Scout RE";
+  src: url("/fonts/webtype/Scout RE Bold/9fc0c6a1-7004-43b7-b783-b46abfc80806-3.woff?domain=readymag.com&md5=LjuFCNxzz8GdJVQfsO-AGA") format("woff");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Scout RE";
+  src: url("/fonts/webtype/Scout RE Italic/a97cee1b-5072-41eb-aac0-a57d7d965ec1-3.woff?domain=readymag.com&md5=0pfNk9O8TxqITs3DxosPYA") format("woff");
+  font-style: italic;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Scout RE";
+  src: url("/fonts/webtype/Scout RE Regular/c10afb5f-f1d0-4ccf-afc7-c9157a049b95-3.woff?domain=readymag.com&md5=R74mgtnILH0coxTWWTgj6w") format("woff");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Sweet Sans";
+  src: url("/fonts/webtype/Sweet Sans Bold/4d682500-7e02-4051-a9c2-7f010a2d29e8-3.woff?domain=readymag.com&md5=3WN2F5J3pLkPKC_2-Mwycw") format("woff");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Sweet Sans";
+  src: url("/fonts/webtype/Sweet Sans Italic/19c66a97-8543-48ae-ba5c-f145c7ec7b3c-3.woff?domain=readymag.com&md5=Uvn3x7lTdFk9z1I6YWBXbg") format("woff");
+  font-style: italic;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Sweet Sans";
+  src: url("/fonts/webtype/Sweet Sans Light/0e2a8d3d-ebcf-4fff-a35d-14dd23b5a251-3.woff?domain=readymag.com&md5=sNFpiV0C8aoy1Xvi0OX12A") format("woff");
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Sweet Sans";
+  src: url("/fonts/webtype/Sweet Sans Medium/8870f297-40c2-4b84-8756-6aa59ca1f044-3.woff?domain=readymag.com&md5=TdzAu4WqgAqBNRY3FKiyRg") format("woff");
+  font-style: normal;
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Sweet Sans";
+  src: url("/fonts/webtype/Sweet Sans Regular/c6c92954-0e07-4154-9c70-2785a024f048-3.woff?domain=readymag.com&md5=VW9EPiMVPLAIUVsy27yB4Q") format("woff");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Telefon";
+  src: url("/fonts/webtype/Telefon Bold/6a307a8f-794b-4041-b7aa-5e377ce57833-3.woff?domain=readymag.com&md5=h7iKSIE3b7aKui2B8nJjVg") format("woff");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Telefon";
+  src: url("/fonts/webtype/Telefon Normal/7e575bd2-d2f6-47d0-9126-357877b7cab5-3.woff?domain=readymag.com&md5=DaBOkH5gobeQUvYapi9ZQQ") format("woff");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Trio Grotesk";
+  src: url("/fonts/webtype/Trio Grotesk Medium/54e84ee0-5a3a-4c02-b20b-e75a529ed2e8-3.woff?domain=readymag.com&md5=T8b7aJU78-IF6kw7Y75mBw") format("woff");
+  font-style: normal;
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Trio Grotesk";
+  src: url("/fonts/webtype/Trio Grotesk Normal/71723d6c-bc35-4e6c-9171-0f91cd88c8d0-3.woff?domain=readymag.com&md5=mcOU12EoE336FTSGHO5D0g") format("woff");
+  font-style: normal;
+  font-weight: 400;
+}
