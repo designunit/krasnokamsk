@@ -1,15 +1,6 @@
 {
-    "version": 2,
-    "name": "krasnokamsk",
-    "build": {
-        "env": {
-            "APP_ACCESS_MODE": ""
-        }
-    },
-    "builds": [
-        {
-            "src": "next.config.js",
-            "use": "@now/next"
-        }
-    ]
+  "version": 2,
+  "name": "krasnokamsk",
+  "builds": [{ "src": "/readymag/**", "use": "@now/static" }],
+  "routes": [{ "src": "/(.*)", "dest": "/readymag/$1" }]
 }

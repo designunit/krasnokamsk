@@ -1,0 +1,29 @@
+
+Options FollowSymLinks SymLinksIfOwnerMatch
+
+AddDefaultCharset utf-8
+
+AddType application/vnd.ms-fontobject eot
+AddType font/opentype otf
+AddType font/truetype ttf
+
+AddType application/font-woff woff
+AddType video/webm webm
+
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{QUERY_STRING} _escaped_fragment_
+RewriteCond %{REQUEST_URI} !^/(dist|img|snippets)
+RewriteRule ^([.a-zA-Z0-9-]+) snippets/$1.html [L]
+
+RewriteCond %{QUERY_STRING} _escaped_fragment_
+RewriteCond %{REQUEST_URI} !^/(dist|img|snippets)
+RewriteRule ^ snippets/1.html [L]
+
+RewriteCond %{REQUEST_URI} !^/(dist|img|snippets)
+RewriteRule ^/?$ index.html [QSA,L]
+
+RewriteCond %{REQUEST_URI} !^/(dist|img|snippets)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^[.a-zA-Z0-9-]+(/(.*))?	$2 [QSA,N]
