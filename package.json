@@ -4,7 +4,7 @@
     "private": true,
     "description": "krasnokamsk.unit4.io site",
     "scripts": {
-        "build": "rm -rf public && cp -r readymag public",
+        "build": "rm -rf public && cp -r readymag public"
     },
     "repository": {
         "type": "git",
